@@ -1,0 +1,12 @@
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\Redis.exe.config
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\Redis.exe
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\Redis.pdb
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\Newtonsoft.Json.dll
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\StackExchange.Redis.dll
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\Newtonsoft.Json.xml
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\bin\Debug\StackExchange.Redis.xml
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\obj\Debug\Redis.csprojAssemblyReference.cache
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\obj\Debug\Redis.csproj.CoreCompileInputs.cache
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\obj\Debug\Redis.csproj.CopyComplete
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\obj\Debug\Redis.exe
+c:\users\ahmet.tokkal\source\repos\Redis\Redis\obj\Debug\Redis.pdb
